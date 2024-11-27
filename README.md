@@ -5,10 +5,6 @@
 <a href="https://wakatime.com/@e781e6d0-783c-47d1-b7e0-f44b643238bc"><img align="right" src="https://wakatime.com/badge/user/e781e6d0-783c-47d1-b7e0-f44b643238bc.svg"/></a>
 <img align="right" src="https://komarev.com/ghpvc/?username=marcosldlf"/>
 
-Estudiando actualmente en [**CIFP Francesc de Borja Moll**](https://github.com/cifpfbmoll).
-
-Hace 2 años acabé el **FPGM Sistemas Microinformáticos y Redes** y este año terminaré el **FPGS Desarrollo de aplicaciones Multiplataforma**.
-
 ## Tecnologías
 
 Suelo "*cacharrear*" con las diferentes tecnologías que voy aprendiendo para nunca dejar de aprender.
